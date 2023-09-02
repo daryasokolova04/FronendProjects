@@ -1,2 +1,2 @@
 # student_card
-## Вводный модуль. [ https://daryasokolova04.github.io/student_card/ ]( Карточка студента ).
+## Вводный модуль. [ Карточка студента ](https://daryasokolova04.github.io/student_card/).
