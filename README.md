@@ -3,4 +3,4 @@
 
 #### DOM 
 - [ To-Do List ](https://daryasokolova04.github.io/DOM/) - [код](https://github.com/daryasokolova04/DOM)
-- [ Dropdown List ] - (https://daryasokolova04.github.io/dropdown/) - [код](https://github.com/daryasokolova04/dropdown)
+- [ Dropdown List ](https://daryasokolova04.github.io/dropdown/) - [код](https://github.com/daryasokolova04/dropdown)
