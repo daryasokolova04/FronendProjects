@@ -1,5 +1,7 @@
 
-#### Вводный модуль. [ Карточка студента](https://daryasokolova04.github.io/FrontendProjects/).
+#### HTML & CSS
+- [ Resume-1 ](https://daryasokolova04.github.io/FrontendProjects/) - [код](https://github.com/daryasokolova04/FrontendProjects)
+- [ Resume-2 ](https://daryasokolova04.github.io/htmlCourseResume/) - [код](https://github.com/daryasokolova04/htmlCourseResume)
 
 #### DOM 
 - [ To-Do List ](https://daryasokolova04.github.io/DOM/) - [код](https://github.com/daryasokolova04/DOM)
