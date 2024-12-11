@@ -12,4 +12,4 @@
 #### React
 - [ Fast-Company ](https://daryasokolova04.github.io/fast-company/) - [код](https://github.com/daryasokolova04/fast-company)
 - [Counter (i18next)](https://daryasokolova04.github.io/counter-task/) - [код](https://github.com/daryasokolova04/counter-task)
-- [Проект для практики в унивеситете ИТМО](https://github.com/daryasokolova04/beyond-ruins)
+- [Проект для практики в университете ИТМО](https://github.com/daryasokolova04/beyond-ruins)
